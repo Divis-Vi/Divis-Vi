@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Diogo Vinicius
 
-<!--
-**Divis-Vi/Divis-Vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de *Análise e Desenvolvimento de Sistemas* (ADS)  
+💻 Em transição de carreira para a área de tecnologia  
+🚀 Explorando Git, GitHub, Python, SQL e Desenvolvimento Web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- Pyton (estudando)
+- Java (Estudando)  
+
+---
+
+## 📂 Projetos em Destaque
+- 
+
+---
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/diogo-vin%C3%ADcius-da-silva-403a195b/)  
+- 📧 diogo.vinicius10@hotmail.com
